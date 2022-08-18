@@ -12,4 +12,18 @@ It will create one pickle file per language and assign a unique id to all entrie
 
 3. Download images
 
+Use the `download_images.sh` for each language.
+
+This script will download all the images for a given langague (given as input). Each image filename will be its unique id.
+It will also create a `.json` containing all captions. It maps all image id to its caption.
+
+It is possible to download only a portion of the images using the `SAMPLE_FACTOR` parameter.
+
+For every 10,000 images downloaded, a dictionary will be saved. It can be use to retrieve the download status of each entry, and to restart the download from the latest checkpoint if something wrong happen.
+
+4. Extract features
+
+
+
+
 
