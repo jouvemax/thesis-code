@@ -1,4 +1,4 @@
-# WIT Pretraining
+# WIT Pretraining
 
 1. Generate the ids for our training datasets
 
@@ -17,3 +17,5 @@ Scripts for pretraining are in [marvl-code/experiments/ctrl_muniter/pretrain/exp
 4. Finetuning
 
 Scripts for finetuning are in [iglue/experiments/zero_shot/ctrl_muniter/marvl/experiment_1](../../../iglue/experiments/zero_shot/ctrl_muniter/marvl/experiment_1).
+
+5. Results can be observed in the `results.ipynb` notebook.
