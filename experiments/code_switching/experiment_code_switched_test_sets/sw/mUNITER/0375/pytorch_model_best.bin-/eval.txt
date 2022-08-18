@@ -1,0 +1,1 @@
+Validation [MaRVL]: loss 0.824 score 54.152 
