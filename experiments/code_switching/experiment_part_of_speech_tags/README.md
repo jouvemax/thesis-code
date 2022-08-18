@@ -6,7 +6,7 @@ However, this time, we will apply the code-switching framework during pretrainin
 
 3. Pretraining
 
-Scripts for pretraining are in [marvl-code/experiments/ctrl_muniter/pretrain/experiment_3](../../../marvl-code/experiments/ctrl_muniter/pretrain/experiment_3).
+Scripts for pretraining are in [marvl-code/experiments/ctrl_muniter/pretrain/experiment_3/grammatical_prop/tr](../../../marvl-code/experiments/ctrl_muniter/pretrain/experiment_3/grammatical_prop/tr).
 
 **Use the `marvl_env` environment.**
 
