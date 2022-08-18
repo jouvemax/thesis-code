@@ -33,7 +33,7 @@ Scripts for pretraining mUNITER and xUNITER can be found in [marvl-code/experime
 
 For finetuning I relied on the IGLUE repository, as the NLVR2 features were smaller (~50GB) than the ones compatible with the MaRVL repository (~1TB).
 
-NLVR2 images features (36 regions per image) can be downloaded (here)[https://sid.erda.dk/cgi-sid/ls.py?share_id=FjJUsFbRWO].
+NLVR2 images features (36 regions per image) can be downloaded [here](https://sid.erda.dk/cgi-sid/ls.py?share_id=FjJUsFbRWO).
 
 Scripts for finetuning mUNITER and xUNITER can be found in [iglue/experiments/zero_shot/](iglue/experiments/zero_shot).
 
@@ -41,4 +41,4 @@ Scripts for finetuning mUNITER and xUNITER can be found in [iglue/experiments/ze
 
 Scripts for testing mUNITER and xUNITER can be found in [marvl-code/experiments/](marvl-code/experiments).
 
-MaRVL features can be downloaded (here)[https://sid.erda.dk/cgi-sid/ls.py?share_id=hmoEs4a3oG].
+MaRVL features can be downloaded [here](https://sid.erda.dk/cgi-sid/ls.py?share_id=hmoEs4a3oG).
