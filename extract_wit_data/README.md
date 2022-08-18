@@ -1,6 +1,6 @@
 # Extract WIT data
 
-### Use the `marvl_env` environment for the following steps.
+### Use the `marvl_env` environment for the following steps.
 
 **1. Download WIT training entries from the official WIT [repository](https://github.com/google-research-datasets/wit/blob/main/DATA.md).**
 
