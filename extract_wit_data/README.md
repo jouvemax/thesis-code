@@ -23,9 +23,9 @@ For every 10,000 images downloaded, a dictionary will be saved. It can be use to
 
 **4. Extract features**
 
-Once all images for a language are downloaded, use the `wit_pretraining_proposal.sh` script in [../marvl-code/feature_extraction/](marvl-code/feature_extraction) to extract the features.
+Once all images for a language are downloaded, use the `wit_pretraining_proposal.sh` script in [/marvl-code/feature_extraction/](../marvl-code/feature_extraction) to extract the features.
 
-For this step, please use the environment provided in [../marvl-code/feature_extraction/](marvl-code/feature_extraction)
+For this step, please use the environment provided in [/marvl-code/feature_extraction/](../marvl-code/feature_extraction)
 
 **5. Get the valid ids**
 
