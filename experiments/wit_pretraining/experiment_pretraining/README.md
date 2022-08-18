@@ -14,8 +14,12 @@ Use the `build_selected_train_val_sets.sh` script for smart selection of data us
 
 Scripts for pretraining are in [marvl-code/experiments/ctrl_muniter/pretrain/experiment_1](../../../marvl-code/experiments/ctrl_muniter/pretrain/experiment_1).
 
+**Use the `marvl_env`environment.**
+
 4. Finetuning
 
 Scripts for finetuning are in [iglue/experiments/zero_shot/ctrl_muniter/marvl/experiment_1](../../../iglue/experiments/zero_shot/ctrl_muniter/marvl/experiment_1).
+
+**Use the `iglue_env`environment.**
 
 5. Results can be observed in the `results.ipynb` notebook.
