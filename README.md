@@ -37,6 +37,8 @@ NLVR2 images features (36 regions per image) can be downloaded [here](https://si
 
 Scripts for finetuning mUNITER and xUNITER can be found in [iglue/experiments/zero_shot/](iglue/experiments/zero_shot).
 
+**For finetuning, please use the `iglue_env` environment.
+
 ### Testing
 
 Scripts for testing mUNITER and xUNITER can be found in [marvl-code/experiments/](marvl-code/experiments).
