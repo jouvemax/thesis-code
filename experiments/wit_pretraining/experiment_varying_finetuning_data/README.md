@@ -1,6 +1,6 @@
 # Varying amount of finetuning data
 
-1. Use the same pretrained models as in [wit_pretraining/](../wit_pretraining)
+1. Use the same pretrained models as in [experiment_pretraining/](../experiment_pretraining)
 
 2. Finetuning
 
